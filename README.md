@@ -20,6 +20,10 @@ weirdshape.txt - (xyz) coordinates of all the edges of the final product
 pic1.png, pic2.png, pic3.png - illustrations
 
 
+![Alt](https://raw.githubusercontent.com/Virtakuono/weirdshape/master/pic1.png)
+![Alt](https://raw.githubusercontent.com/Virtakuono/weirdshape/master/pic2.png)
+![Alt](https://raw.githubusercontent.com/Virtakuono/weirdshape/master/pic3.png)
+
 ## License
 
 Use in any way you wish.
